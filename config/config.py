@@ -10,11 +10,6 @@ class Config:
     
     SECRET_KEY = 'a3#x@L9!zQmKp2$vXq8L'
     
-    # SQL_HOST = "rm-uf6z891lon6dxuqblqo.mysql.rds.aliyuncs.com"
-    # SQL_USERNAME = "ubr123"
-    # SQL_PASSWORD = "ubr321"
-    # SQL_PORT = "3306"
-    # SQL_DB = "ubr_rag"
     SQL_HOST = '127.0.0.1'
     SQL_USERNAME = 'root'
     SQL_PASSWORD = '1234'
